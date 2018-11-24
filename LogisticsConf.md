@@ -1,6 +1,6 @@
 ## Logistics in Mobility Conf Seesion -1 (before lunch)
 
-* Go JEK : Automated Daily Run Sheet
+* **Go JEK : Automated Daily Run Sheet**
     * The DRS creation is almost always manual. 
     * Source of data : customer address
         *  Structure the address : 
@@ -39,7 +39,7 @@
         * Why not a vehicle routing problem over a cluster? FE generally knows the area. 
         * Clustering need to modified for the time slots: sub cluster
  ************************
-* Flipkart: [Product] Location Intelligence and Automated Beat Planner. 
+* **Flipkart: [Product] Location Intelligence and Automated Beat Planner.**
     * FSG kicks in once the customer has placed an order and aims to be the best in class of the services. 
     * Order Placed
         * Create in shipments
@@ -87,7 +87,7 @@
         * Office delivery address
     * Allocation Engine in the automated beat planner should have input of the FE performance (fake attempt), skill (any demo required?) and time preference  
 ************************
-* Pikkol : Visualisation and Fleet Managmenet
+* **Pikkol : Visualisation and Fleet Managmenet**
     * Ground up problem:  visualise the data
     * Preattentive attributes: Collin Ware
     * Design : color scales, numerical scales, interaction bounderies
@@ -125,7 +125,7 @@
         * Kepler.gl, Folium, Mapbox and deck
         * Build maps to highlight actions and not just plotting the data. 
 ************************
-* BoF : Zoomcar, Flipkart, Swiggy and Pikkol [Chatham House]
+* **BoF : Zoomcar, Flipkart, Swiggy and Pikkol [Chatham House]**
     * Accuracy precision differs : in search your accuracy may not be same as the assignment accuracy. 
     * Places API : Things are well mapped
     * Elevation may be relevant in the some cases, metadata matters. 
@@ -150,7 +150,8 @@ double that google mentions.
     * Route assignment is better after delivery is defined. 
     * Heivenstien distance for defining delivery. 
     * Accurate routes or travelling distances. 
-* Director of Products, Flipkart, Supply Chains and network intelligence 
+*****************
+* **Director of Products, Flipkart, Supply Chains and network intelligence**
     *  Network is the composition of the all parts starting from the supplier to the customer .
     * Fast scaling vs intelligence
         * Incoming demand is pushed to a warehouse
