@@ -1,6 +1,6 @@
 ## Logistics in Mobility Conf Seesion -1 
 
-[Seesion-2](https://github.com/saurabhariyan/conference-notes/blob/master/LogisticsConf-1.md)
+**Looking for [Seesion-2](https://github.com/saurabhariyan/conference-notes/blob/master/LogisticsConf-1.md)?**
 
 * **Go JEK : Automated Daily Run Sheet**
     * The DRS creation is almost always manual. 
