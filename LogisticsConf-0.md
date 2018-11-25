@@ -202,3 +202,5 @@ double that google mentions.
             * Max cost of the serving the order : earliest order
             * Min cost of the serving the order : delay the order
             * Cost of risks of the flow path
+
+**[Continued here](https://github.com/saurabhariyan/conference-notes/blob/master/LogisticsConf-1.md)**
